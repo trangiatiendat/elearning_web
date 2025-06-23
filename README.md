@@ -146,9 +146,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Trần Gia Tiến Đạt
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped shape this project
-- Special thanks to the open-source community for their invaluable tools and libraries
