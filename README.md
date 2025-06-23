@@ -7,7 +7,7 @@ A modern and comprehensive e-learning platform built with cutting-edge technolog
 - **User Authentication & Authorization**
 
   - Secure login and registration system
-  - Role-based access control (Student, Teacher, Admin)
+  - Role-based access control (Student, Teacher)
   - Face recognition authentication
 
 - **Course Management**
@@ -131,18 +131,6 @@ elearning_web/
 3. Set up your environment variables
 4. Start both client and server applications
 5. Access the application at `http://localhost:5173`
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
 
